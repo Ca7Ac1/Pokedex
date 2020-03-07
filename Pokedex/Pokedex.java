@@ -19,8 +19,7 @@ public class Pokedex extends JPanel implements ActionListener {
 
     private final int BUTTON_SIZE = 45;
 
-    // Change file path to be the file path of the images folder
-    private final String FILE_PATH = "";
+    private final String FILE_PATH = "Images/";
 
     private Pokemon[] pokemon;
     private int index;
